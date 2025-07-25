@@ -1,0 +1,7 @@
+inicio ( ) { int id }
+inicio ( ) { double id , id}
+inicio ( ) { id = id + id }
+inicio ( ) { id = ( num + num ) }
+inicio ( ) { while ( id > id ) { int id } }
+inicio ( ) { if ( id > id ) { int id } else { double id } }
+inicio ( ) { int id while ( id > id ) { id = id } }
